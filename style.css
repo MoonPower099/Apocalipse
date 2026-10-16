@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@font-face {
+    font-family: 'ApocalypseFont';
+    src: url('./fonts/apocalypse.woff2') format('woff2'); /* Ajuste o caminho se necessário */
+}
